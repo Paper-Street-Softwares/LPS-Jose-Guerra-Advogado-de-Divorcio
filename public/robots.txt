@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://divorcio-adv.bentakadvespecializada.com.br/sitemap.xml
