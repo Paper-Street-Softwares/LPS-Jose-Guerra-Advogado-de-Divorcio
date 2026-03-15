@@ -90,7 +90,7 @@ export const infos = {
   tiktokProfile: "",
 
   whatsappDefaultMessage:
-    "Olá! Vim do Google e preciso de ajuda com Divórcio. Como faço para dar entrada?",
+    "Olá! Vim do Google e preciso de ajuda com Divórcio. O Advogado pode me atender?",
   whatsChatDefaultMessage:
     "Gostaria de falar conosco agora mesmo? Clque abaixo 👇",
   slogan: "",
@@ -122,7 +122,7 @@ const content = {
       ctaButtonTextResponsive: "Contato",
     },
     hero: {
-      miniTag: "ADVOGADO PARA DIVÓRCIO",
+      miniTag: "ADVOGADO PARA DIVÓRCIO EM SOROCABA - SP",
       FirstPart: <span>Resolva seu</span>,
       Destaque: (
         <span className="relative italic font-light destaque">Divórcio</span>
@@ -132,8 +132,8 @@ const content = {
       ),
       subtitle: (
         <p>
-          Pare de lidar sozinho(a) com as dúvidas e tenha um Advogado com
-          experiência e capacitação cuidando de todo o processo para você.
+          Pare de lidar sozinho(a) com as dúvidas e tenha um Advogado perto de
+          você com experiência e capacitação cuidando de todo o processo.
         </p>
       ),
       heroDefaultImage: heroDefaultImg, // img da pessoa mobile
@@ -142,7 +142,7 @@ const content = {
       alt: "Imagem ilustrativa da Seção Início",
       ctaButtonAriaLabel:
         "Botão para chamada de ação para contato pelo whatsapp",
-      ctaButtonText: "Quero falar com o Advogado agora",
+      ctaButtonText: "Falar com o Advogado agora",
       ctaButtonTextSecondary: "A_Definir",
       obsHero: {
         icon: <LucideIdCard />,
