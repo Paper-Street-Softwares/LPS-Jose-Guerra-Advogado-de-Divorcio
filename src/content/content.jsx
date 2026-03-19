@@ -122,7 +122,7 @@ const content = {
       ctaButtonTextResponsive: "Contato",
     },
     hero: {
-      miniTag: "ADVOGADO PARA DIVÓRCIO EM SOROCABA - SP",
+      miniTag: "ADVOGADO PARA DIVÓRCIO",
       FirstPart: <span>Resolva seu</span>,
       Destaque: (
         <span className="relative italic font-light destaque">Divórcio</span>
