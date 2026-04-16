@@ -45,9 +45,9 @@ export const infos = {
   emailSecundario: "A_Definir", // Email desejado pelo cliente
   domain: "divorcio-adv-joseguerra.advespecialista.adv.br", // Sem "www"
   phone: {
-    ddd: "47",
-    firstPart: "98146", // Apenas os 5 primeiros números (incluindo o 9)
-    secondPart: "6707", // Apenas os 4 últimos números
+    ddd: "11",
+    firstPart: "91985", // Apenas os 5 primeiros números (incluindo o 9)
+    secondPart: "1205", // Apenas os 4 últimos números
   },
   phoneSecundario: {
     ddd: "A_Definir",
